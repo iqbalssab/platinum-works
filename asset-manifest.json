@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/platinum-works/static/css/main.d57e2c13.css",
+    "main.js": "/platinum-works/static/js/main.61440540.js",
+    "static/js/787.d9fdfb85.chunk.js": "/platinum-works/static/js/787.d9fdfb85.chunk.js",
+    "static/media/img1.jpg": "/platinum-works/static/media/img1.112ec6e757bd49fedf94.jpg",
+    "static/media/wedding-paket.jpg": "/platinum-works/static/media/wedding-paket.b7993a4e12d5c628124b.jpg",
+    "static/media/bg-transport.jpg": "/platinum-works/static/media/bg-transport.bd344e686a7126a54524.jpg",
+    "static/media/home-decor.jpg": "/platinum-works/static/media/home-decor.e100146f3a70ff39c303.jpg",
+    "static/media/home-transport.jpg": "/platinum-works/static/media/home-transport.d5fe0681c8faf8893ded.jpg",
+    "static/media/birthday-paket.jpg": "/platinum-works/static/media/birthday-paket.6d4d23a4ef80e025519e.jpg",
+    "static/media/bg-decor2.jpg": "/platinum-works/static/media/bg-decor2.26eb284b036224d4ae30.jpg",
+    "static/media/bg-decor.jpg": "/platinum-works/static/media/bg-decor.1b7b71d30afaf13f298a.jpg",
+    "static/media/engagement-paket.jpg": "/platinum-works/static/media/engagement-paket.c9f98232c4b152dfb0dc.jpg",
+    "static/media/benkskuy.png": "/platinum-works/static/media/benkskuy.6b1b9bf4289c11ea4421.png",
+    "static/media/img10.jpeg": "/platinum-works/static/media/img10.4507f4ea434e84c7ce2c.jpeg",
+    "static/media/mark.png": "/platinum-works/static/media/mark.7a96db3811d378dea92a.png",
+    "static/media/img2.jpeg": "/platinum-works/static/media/img2.65786c4536956b45c82a.jpeg",
+    "static/media/img5.jpeg": "/platinum-works/static/media/img5.80752598304e7b96816a.jpeg",
+    "static/media/img6.jpeg": "/platinum-works/static/media/img6.1d348bdb72c50d9abaf6.jpeg",
+    "static/media/img9.jpeg": "/platinum-works/static/media/img9.ee6eb2626096dac28797.jpeg",
+    "static/media/img3.jpeg": "/platinum-works/static/media/img3.d2a04f5b817cea64ac68.jpeg",
+    "static/media/img3.jpg": "/platinum-works/static/media/img3.1292faa7e7501d45adce.jpg",
+    "static/media/img2.jpg": "/platinum-works/static/media/img2.7539b71a2fee89266d95.jpg",
+    "static/media/img7.jpeg": "/platinum-works/static/media/img7.cddcf10cfbe6783df37c.jpeg",
+    "static/media/img1.jpeg": "/platinum-works/static/media/img1.3674371a851093357aab.jpeg",
+    "static/media/img8.jpeg": "/platinum-works/static/media/img8.80d150f88af57fa7fb67.jpeg",
+    "static/media/img4.jpeg": "/platinum-works/static/media/img4.6e94460ef71d9199e86e.jpeg",
+    "static/media/decor-party.svg": "/platinum-works/static/media/decor-party.3238df1da75e90c2c4b1b6b869d4ae5c.svg",
+    "static/media/decoration.svg": "/platinum-works/static/media/decoration.7f4d0ad81ae665121b89a98e4b385d49.svg",
+    "static/media/tentang.svg": "/platinum-works/static/media/tentang.0ff600e6f9f639d6ae1537e6502957c4.svg",
+    "index.html": "/platinum-works/index.html",
+    "main.d57e2c13.css.map": "/platinum-works/static/css/main.d57e2c13.css.map",
+    "main.61440540.js.map": "/platinum-works/static/js/main.61440540.js.map",
+    "787.d9fdfb85.chunk.js.map": "/platinum-works/static/js/787.d9fdfb85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57e2c13.css",
+    "static/js/main.61440540.js"
+  ]
+}
