@@ -3,17 +3,19 @@ import { LogoHead } from '../../../assets'
 
 const Footer = () => {
   return (
-<div className='container'>
-    <div className='bg-dark pt-5 pb-10 mt-2'>
+<div className=''>
+    
+    <div className='bg-dark pt-5 pb-10'>
+    <hr className='w-3/4 border-slate-600 mx-auto' />
         <div id='namacompany' className='flex items-center px-2'>
         <img src={LogoHead} style={{width: 64, height:64 }} className='mb-2 mx-2 inline' alt='logo'/>
-                <h2 className="font-bold text-white text-3xl pb-3">Platinum Corp</h2>
+                <h2 className="font-bold text-white text-3xl pb-3">Platinum Works</h2>
         </div>
         <div className='flex flex-wrap'>
             <div className='w-full px-4 mb-8 text-slate-300 md:w-1/3'>
                 
                     <h3 className="font-bold text-white text-xl mb-2">Hubungi Kami</h3>
-                    <p>Platinumdecor@gmail.com</p>
+                    <p>Platinumwokrs@gmail.com</p>
                     <p>Jl. Nanas, no.40 Jenang</p>
                     <p>Majenang</p>
             </div>

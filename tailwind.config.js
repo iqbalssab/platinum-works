@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     container :{
       center : true,
-      padding : '16px',
+      padding : '8px',
     },
     extend: {
       colors: {
@@ -15,7 +15,7 @@ module.exports = {
         dark: '#0f172a'
       },
       backgroundImage: {
-        'bg-decor' : "url('/assets/img/bg/home-decor.jpg')"
+        'bg-galeri1' : "url('/src/assets/img/galeri/img1.jpeg')"
       }
     },
   },

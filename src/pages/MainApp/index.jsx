@@ -1,17 +1,21 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
-import { Footer, Header } from '../../components'
+import { Footer, Navbar } from '../../components'
+import Decoration from '../Decoration'
 import Home from '../Home'
 
-const MainApp = () => {
+const MainApp = (path) => {
+
+
   return (
     <div>
-        <div className='header-wrapper'>
-            <Header />
+        <div id='navigasi' className='header-wrapper absolute w-full'>
+            <Navbar />
         </div>
         <div className='content-wrapper'>
             <Routes>
-                <Route path='/' element={<Home />} />
+                <Route path='/' element={<Home />}  />
+                <Route path='/decoration' element={<Decoration />}  />
             </Routes>
         </div>
         <div className='footer-wrapper'>
