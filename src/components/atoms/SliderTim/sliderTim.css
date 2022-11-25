@@ -5,8 +5,9 @@
 
 .swiper-slide {
   
-  width: 65%;
-
+  //width: 65%;
+  @apply: lg:w-[65%] w-100%;
+  @apply lg:h-[100%] h-[70%];
   padding: 0;
 
   /* Center slide text vertically */
@@ -26,6 +27,5 @@
 
 .swiper-slide img {
   display: block;
-  
   object-fit: contain;
 }

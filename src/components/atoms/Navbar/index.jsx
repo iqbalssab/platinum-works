@@ -32,11 +32,11 @@ const Navbar = () => {
                 md:hidden bg-white fixed w-full h-full overflow-visible bottom-0 py-24 pl-4 duration-500 ${ open ? 'left-0 ' : 'left-[-100%]' }
             `}>
                 <li>
-                    <Link to='/' className='py-7 px-3 inline-block'>
+                    <Link to='/' className='py-7 px-3 inline-block' onClick={()=>setOpen(!open)}>
                         Home
                     </Link>
                 </li>
-                <NavLinks />
+                <NavLinks onClick={()=>setOpen(!open)}/>
                 <div className='py-5'>
                     <Button />
                 </div>

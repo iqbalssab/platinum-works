@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { links } from './Mylinks'
-const NavLinks = () => {
+const NavLinks = (props) => {
   return (
     <>
         {
@@ -9,7 +9,9 @@ const NavLinks = () => {
                 <>
                     <div key={i} className='px-3 text-left md:cursor-pointer hover:text-primary group'>
                         <h1 className='py-7 flex justify-between items-center '>
-                            <a href={link.link}>
+                            <a
+                            onClick={props.onClick} 
+                            href={link.link}>
                                 {link.name}
                             </a>
                         </h1>

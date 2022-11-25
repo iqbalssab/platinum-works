@@ -1,7 +1,7 @@
 {
-  "name": "react-tailwind",
+  "name": "platinum-works",
   "version": "0.1.0",
-  "homepage": "https://iqbalssab.github.com/platinum-works",
+  "homepage": "https://iqbalssab.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",

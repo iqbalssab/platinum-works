@@ -23,7 +23,7 @@ const Footer = () => {
                     <h3 className="font-semibold text-xl text-white mb-5">Unit Bisnis</h3>
                     <ul className="text-slate-300">
                         <li>
-                            <a href="blabla" className="inline-block text-base hover:text-primary mb-2">Platinum Decoration</a>
+                            <a href="/decoration" className="inline-block text-base hover:text-primary mb-2">Platinum Decoration</a>
                         </li>
                         <li>
                             <a href="blabla" className="inline-block text-base hover:text-primary mb-2">Platinum Transport</a>

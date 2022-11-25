@@ -26,7 +26,7 @@ const Home = () => {
                 <section id='unit' className='px-4 bg-gradient-to-b from-slate-200 to-white relative'>
                     <span className='top-0 mx-2'>
                         <h1 className='text-2xl text-dark text-center font-bold'>Unit Bisnis</h1>
-                        <hr className='border-2 mx-auto w-1/3 lg:w-1/6 border-orange-400' />
+                        <hr className='border-2 mx-auto w-1/3 lg:w-1/12 border-orange-400' />
                     </span>
                 
                 <div className='flex flex-wrap lg:flex-nowrap gap-2'>
@@ -66,7 +66,7 @@ const Home = () => {
                 <section id='about' className=''>
                     <span className='mx-2'>
                         <h1 className='text-center text-2xl font-bold'>Tentang Kami</h1>
-                        <hr className='border-2 mx-auto w-1/3 lg:w-1/6 border-orange-400' />
+                        <hr className='border-2 mx-auto w-1/3 lg:w-1/12 border-orange-400' />
                     </span>
                     <div className='w-full flex flex-wrap lg:gap-4 lg:flex-nowrap rounded-xl'>
                         <div className='w-full h-full mt-2 mb-8 relative lg:w-1/2 self-start p-3 '>
@@ -80,10 +80,11 @@ const Home = () => {
                         
                     </div>
                 </section>
+                {/* Team Section */}
                 <section id='team' className='my-4'>
-                        <div className='mb-7 lg:mb-0'>
+                        <div className='mb-7'>
                             <h1 className='text-center text-2xl font-bold'>Anggota Tim</h1>
-                            <hr className='border-2 mx-auto w-1/3 lg:w-1/6 border-orange-400' />
+                            <hr className='border-2 mx-auto w-1/3 lg:w-1/12 border-orange-400' />
                         </div>
 
                 <div className='px-4 flex flex-wrap lg:flex-nowrap mt-3 w-full'>
@@ -99,7 +100,7 @@ const Home = () => {
                 {/* testimoni section */}
                 <section id='testimoni' className='pt-4'>
                         <h1 className='text-center text-2xl font-bold'>Testimoni Pelanggan</h1>
-                        <hr className=' mx-auto w-1/3 lg:w-1/6 border-2 border-orange-400' />
+                        <hr className=' mx-auto w-1/3 lg:w-1/12 border-2 border-orange-400' />
                     <div className='w-full max-h-screen h-full relative self-start p-3 mb-5 mt-3 shadow-xl bg-dark '>
                             <div className='py-3 lg:my-5'>
                                 <Slider />
