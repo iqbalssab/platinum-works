@@ -6,7 +6,7 @@ const Footer = () => {
 <div className=''>
     
     <div className='bg-dark pt-5 pb-10'>
-    <hr className='w-3/4 border-slate-600 mx-auto' />
+    
         <div id='namacompany' className='flex items-center px-2'>
         <img src={LogoHead} style={{width: 64, height:64 }} className='mb-2 mx-2 inline' alt='logo'/>
                 <h2 className="font-bold text-white text-3xl pb-3">Platinum Works</h2>

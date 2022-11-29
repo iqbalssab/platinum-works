@@ -26,12 +26,10 @@ export default function App() {
            }
         }}
         spaceBetween={10}
-        
-        modules={[]}
         className="mySwiper"
       >
-        <SwiperSlide>
-          <div className="bg-gradient-to-br from-sky-600 to-sky-600 via-slate-400 self-start items-end origin-top hover:scale-y-110 duration-700 md:w-full w-[80%] md:h-[80%] h-[100%]  overflow-hidden group">
+        <SwiperSlide className="border border-slate-50">
+          <div className="bg-gradient-to-br from-primary to-orange-600 self-start items-end origin-top hover:scale-y-110 duration-700 md:w-full w-[80%] md:h-[80%] h-[100%] hover:bg-sky-800 overflow-hidden group">
           <div className="w-full h-full relative flex flex-wrap">
             <div className="absolute self-end group-hover:scale-110 origin-top-left duration-700">
               <img src={Owner} alt="" className=""/>

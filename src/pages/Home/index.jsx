@@ -63,7 +63,7 @@ const Home = () => {
                 </div>
                 </section>
                 {/* About Section */}
-                <section id='about' className=''>
+                <section id='about' className='px-4'>
                     <span className='mx-2'>
                         <h1 className='text-center text-2xl font-bold'>Tentang Kami</h1>
                         <hr className='border-2 mx-auto w-1/3 lg:w-1/12 border-orange-400' />
@@ -81,7 +81,7 @@ const Home = () => {
                     </div>
                 </section>
                 {/* Team Section */}
-                <section id='team' className='my-4'>
+                <section id='team' className='my-4 px-4'>
                         <div className='mb-7'>
                             <h1 className='text-center text-2xl font-bold'>Anggota Tim</h1>
                             <hr className='border-2 mx-auto w-1/3 lg:w-1/12 border-orange-400' />

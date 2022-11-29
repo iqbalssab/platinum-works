@@ -6,7 +6,7 @@ import NavLinks from './NavLinks'
 
 const Navbar = () => {
     const [open, setOpen] = useState(false)
-
+    
   return (
     <nav className='bg-transparent sticky'>
         <div className='flex items-center font-medium justify-around'>
